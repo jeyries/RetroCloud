@@ -5,8 +5,10 @@ This app allow you to manage your collection of ROM stored in iCloud.
 
 Supported platforms: Mac, iPhone, iPad
 
+Screenshot:
 ![](companion.webp)
 
+![Install Retro Cloud Companion (TestFlight)](https://testflight.apple.com/join/r35CE99B)
 
 # Retro Cloud Player
 
@@ -19,5 +21,8 @@ This emulator include cores from the Libretro project.
 
 Supported platforms: Mac, iPhone, iPad and Apple TV
             
+![Install Retro Cloud Player (TestFlight)](https://testflight.apple.com/join/q2Cj4V1Z)
+
+Screenshot:
 ![](player.webp)
 
